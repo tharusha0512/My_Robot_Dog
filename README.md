@@ -1,7 +1,9 @@
 # My_Robot_Dog
-<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/cf84bd9d-1951-41e1-bc4d-f39175ae6a62" />
 
 ESP32 based autonomous DIV Robot Dog project
+
+<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/cf84bd9d-1951-41e1-bc4d-f39175ae6a62" />
+
 <p aline="coner">Tharusha Perera
 
 
@@ -40,7 +42,7 @@ To design and build a programmable robot dog that can move, interact with humans
 
 -🎮 Programmable Movements — Different movements can be programmed using Arduino IDE.
 
-## ⚜️ Hardware / Components
+## 🛠️ Hardware / Components
 
 -ESP32
 
@@ -66,41 +68,74 @@ Input → ESP32 → Servo/display → Robot action
 
 ## Movement System
 
-🦵 Leg Movement
+### 🦵 Leg Movement
 
-Four legs are controlled by servo motors.
+-Four legs are controlled by servo motors.
 
-Coordinated movements allow sitting, and standing.
+-Coordinated movements allow sitting, and standing.
 
-Servo angles are programmed for stable movement.
+-Servo angles are programmed for stable movement.
 
-🐕 Neck Movement
+### 🐕 Neck Movement
 
-A servo controls the head/neck.
+-A servo controls the head/neck.
 
-The head can move left and right.
+-The head can move left and right.
 
-This allows the robot to look around.
+-This allows the robot to look around.
 
-🦴 Tail Movement
+###🦴 Tail Movement
 
-A servo controls the tail.
+-A servo controls the tail.
 
-The tail can move left and right.
+-The tail can move left and right.
 
-Different movements can represent emotions.
+-Different movements can represent emotions.
 
-## Animated Eyes
+## 👀 Animated Eyes
 
-Normal
+-Normal
 
-Happy
+-Happy
 
-Sad
+-Sad
 
-Angry
+-Angry
 
-Sleepy
+-Sleepy
 
-Surprised
+-Surprised
 
+## ⚙️ Code
+
+-Arduino IDE
+
+-ESP32
+
+-Servo control
+
+-OLED animation
+
+## AI Features
+
+-Smart decisions
+
+-AI conversation
+
+## ⚜️ Applications
+
+-Education
+
+-Human interaction
+
+## ✨ Future Improvements
+
+-Camera
+
+-More sensors
+
+-AI
+
+-Autonomous walking
+
+-Mobile app
